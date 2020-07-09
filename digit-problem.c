@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-	char str[10];
-	scanf("%s",&str);
+	char str[100000];
+	scanf("%s",str);
 	int K;
 	scanf("%d",&K);
 
