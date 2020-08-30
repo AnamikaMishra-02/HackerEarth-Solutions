@@ -1,5 +1,5 @@
 
-
+# DNA Trancription 
 dna=input()
 new = ""
 for i in dna:
